@@ -44,6 +44,8 @@ This work includes:
 
 ├── results/ # Evaluation metrics, plots, confusion matrix
 
+├── Deployment/ Deploy our XTiny-FastKAN into edge device
+
 ├── notebooks/ # Jupyter notebooks for visualization and testing
 
 └── README.md
