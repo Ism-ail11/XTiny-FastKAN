@@ -28,4 +28,21 @@ This work includes:
 ---
 
 ## 📂 Repository Structure
+├── data/ # Raw and processed Tifinagh stroke data
+├── rasterization/ # Converts strokes into color raster images
+├── augmentation/ # Augmentation scripts (rotation, noise, warping)
+├── model/ # XTiny-FastKAN model and architecture
+├── training/ # Training and evaluation scripts
+├── explainability/ # XAI module (saliency maps)
+├── tflite/ # Exported .tflite and quantized models
+├── results/ # Evaluation metrics, plots, confusion matrix
+├── notebooks/ # Jupyter notebooks for visualization and testing
+└── README.md
 
+
+📬 Contact
+For questions, collaborations, or dataset access, please contact:
+
+Ismail Lamaakal
+ Multidisciplinary Faculty of Nador, Mohammed Premier University, Oujda, Morocco.
+📧 ismail.lamaakal@ieee.org
