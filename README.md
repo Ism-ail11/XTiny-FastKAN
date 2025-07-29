@@ -55,8 +55,6 @@ This work includes:
 This project is licensed under the terms of the **MIT License**.  
 You are free to use, modify, distribute, and sell this software, provided that you include the original copyright and license notice.
 
-See the [LICENSE](./LICENSE) file for full details.
-
 
 📬 Contact
 For questions, collaborations, or dataset access, please contact:
