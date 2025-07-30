@@ -57,7 +57,7 @@ You are free to use, modify, distribute, and sell this software, provided that y
 
 
 📬 Contact
-For questions, collaborations, or dataset access, please contact:
+For questions or collaborations, please contact:
 
 Ismail Lamaakal
 
